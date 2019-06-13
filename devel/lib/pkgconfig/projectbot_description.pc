@@ -1,0 +1,8 @@
+prefix=/home/tasoth/project_ws/devel
+
+Name: projectbot_description
+Description: Description of projectbot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tasoth/project_ws/devel/lib 
+Requires: 

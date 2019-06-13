@@ -1,0 +1,8 @@
+prefix=/home/tasoth/project_ws/install
+
+Name: projectbot_gazebo
+Description: Description of projectbot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tasoth/project_ws/install/lib 
+Requires: 
